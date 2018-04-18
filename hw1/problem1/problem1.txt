@@ -1,0 +1,15 @@
+Charles Winston
+Homework 1 Problem 1
+
+A.
+If 2499 boat days are allowed each year, then the steady state harvest rate
+be at a maximum value of 3749.5 whales per year. The steady state population
+would be 150,041 whales.
+
+B.
+The sensitivity of the optimal number of boat days to r = 0.05 is 0.019. So a
+1% increase in r results in a 1.9% increase in the optimal number of boat days.
+This makes sense because if the intrinsic growth rate of the whales is larger,
+then more boat days could be allowed to maximize the steady state harvest rate.
+
+C.
